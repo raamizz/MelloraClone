@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import "~@flaticon/flaticon-uicons/css/all/all";
+
+
+
+
+
+.custom-smaller-font {
+  font-size: 2px; /* You can adjust the size as needed */
+}

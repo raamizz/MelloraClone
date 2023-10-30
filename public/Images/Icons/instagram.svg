@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <linearGradient id="rov06y1y5a" x1="50%" x2="50%" y1="99.709%" y2=".777%">
+            <stop offset="0%" stop-color="#E09B3D"/>
+            <stop offset="30%" stop-color="#C74C4D"/>
+            <stop offset="60%" stop-color="#C21975"/>
+            <stop offset="100%" stop-color="#7024C4"/>
+        </linearGradient>
+        <linearGradient id="if4z0j9ylb" x1="50%" x2="50%" y1="146.099%" y2="-45.16%">
+            <stop offset="0%" stop-color="#E09B3D"/>
+            <stop offset="30%" stop-color="#C74C4D"/>
+            <stop offset="60%" stop-color="#C21975"/>
+            <stop offset="100%" stop-color="#7024C4"/>
+        </linearGradient>
+        <linearGradient id="2retkvjcac" x1="50%" x2="50%" y1="658.141%" y2="-140.029%">
+            <stop offset="0%" stop-color="#E09B3D"/>
+            <stop offset="30%" stop-color="#C74C4D"/>
+            <stop offset="60%" stop-color="#C21975"/>
+            <stop offset="100%" stop-color="#7024C4"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-231 -4037) translate(231 4037)">
+                <circle cx="20" cy="20" r="19.5" fill="#FFF" stroke="#EAEAEC"/>
+                <g fill-rule="nonzero">
+                    <g transform="translate(8 8)">
+                        <path fill="url(#rov06y1y5a)" d="M16.82 0H7.138C3.202 0 0 3.202 0 7.137v9.684c0 3.935 3.202 7.137 7.137 7.137h9.684c3.935 0 7.137-3.202 7.137-7.137V7.137C23.958 3.202 20.756 0 16.821 0zm4.728 16.82c0 2.611-2.117 4.728-4.727 4.728H7.137c-2.61 0-4.727-2.117-4.727-4.727V7.137c0-2.61 2.117-4.727 4.727-4.727h9.684c2.61 0 4.727 2.117 4.727 4.727v9.684z"/>
+                        <path fill="url(#if4z0j9ylb)" d="M11.979 5.783c-3.417 0-6.196 2.78-6.196 6.196 0 3.417 2.78 6.196 6.196 6.196 3.417 0 6.196-2.78 6.196-6.196 0-3.417-2.78-6.196-6.196-6.196zm0 9.982c-2.091 0-3.786-1.695-3.786-3.786s1.695-3.786 3.786-3.786 3.786 1.695 3.786 3.786-1.695 3.786-3.786 3.786z"/>
+                        <circle cx="18.187" cy="5.829" r="1.485" fill="url(#2retkvjcac)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
