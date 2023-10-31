@@ -4,7 +4,7 @@ function HamBurger() {
   return (
     <div>
       <div class="ml-12 mr-8  flex w-full flex-wrap items-center justify-between px-3">
-          {/* <button
+          <button
       class="block border-0 bg-transparent px-2 text-neutral-500 hover:no-underline hover:shadow-none focus:no-underline focus:shadow-none focus:outline-none focus:ring-0 dark:text-neutral-200 lg:hidden"
       type="button"
       data-te-collapse-init
@@ -25,7 +25,7 @@ function HamBurger() {
             clip-rule="evenodd" />
         </svg>
       </span>
-    </button> */}
+    </button>
     </div>
 
     </div>
